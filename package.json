@@ -1,0 +1,5 @@
+{
+  "name":"zenova-v3-freehost","version":"3.0.0","private":true,
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"express":"^4.21.2","pg":"^8.13.1","bcryptjs":"^2.4.3","qrcode":"^1.5.4"}
+}
